@@ -17,6 +17,12 @@ const hexCodeLetter = [
   7,
   8,
   9,
+  "a",
+  "b",
+  "c",
+  "d",
+  "e",
+  "f",
 ];
 
 const btn = document.getElementById("btn");
